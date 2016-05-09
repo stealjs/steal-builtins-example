@@ -9,7 +9,7 @@
   "author": "Bitovi",
   "license": "MIT",
   "dependencies": {
-    "steal": "^0.10.5",
+    "steal": "^0.16.0",
     "steal-builtins": "^1.0.0"
   }
 }
