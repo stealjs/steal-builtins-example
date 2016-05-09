@@ -11,5 +11,8 @@
   "dependencies": {
     "steal": "^0.16.0",
     "steal-builtins": "^1.0.0"
+  },
+  "system": {
+    "npmAlgorithm": "flat"
   }
 }
