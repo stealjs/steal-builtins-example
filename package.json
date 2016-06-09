@@ -9,10 +9,6 @@
   "author": "Bitovi",
   "license": "MIT",
   "dependencies": {
-    "steal": "^0.16.0",
-    "steal-builtins": "^1.0.0"
-  },
-  "system": {
-    "npmAlgorithm": "flat"
+    "steal": "^1.0.0-pre.0"
   }
 }
